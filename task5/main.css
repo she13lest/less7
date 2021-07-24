@@ -34,7 +34,7 @@ div:nth-child(5) > p {
 div:nth-child(5) > p:last-child {
   border: 5px solid white;
 }
-div:nth-child(5) > em {
+em {
   font-size: 20px;
   color: white;
 }
