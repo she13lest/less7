@@ -6,7 +6,7 @@
 .theory::first-line {
   font-size: 24px;
 }
-.theory::selected {
+.theory::selection {
   background-color: red;
   color: white;
 }
