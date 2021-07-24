@@ -1,0 +1,17 @@
+li {
+  margin-bottom: 16px;
+}
+.first-child {
+  background-color: red;
+  color: white;
+}
+.last-type {
+  background-color: black;
+  color: white;
+}
+.multiple {
+  margin-left: 16px;
+}
+.non-multiple {
+  background-color: grey;
+}
